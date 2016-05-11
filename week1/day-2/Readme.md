@@ -11,16 +11,20 @@
 
 #### ১। git init
 আমরা আগেই আমাদের মেশিন এ গিট ইন্সটল করে নিয়েছি। প্রথমে রুট ফোল্ডার এ গিট initialize করতে হবে mouse এর রাইট বাটন ক্লিক করে start git bash here এ জেতে হবে ,  এর পর git init দিয়ে  initialize হয়ে যাবে এবং রুট ফোল্ডার এ .git নামে একটি হিডেন ফোল্ডার তৈরি হবে।
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_1.jpg)
+
+![Image of Project](/week1/day-2/screenshots/Screenshot_1.jpg)
+
 #### ২। git add *
 এই কমান্ড এর মাধ্যমে আমরা আমাদের সব ফাইলকে track করব ।
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_2.jpg)
+![Image of Project1](/week1/day-2/screenshots/Screenshot_2.jpg)
+
 #### ৩। git status
 এর মাধ্যমে আমরা প্রোজেক্ট এর বর্তমান আবস্তা সম্পর্কে জানতে পারব।
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_3.jpg)
+![Image of Project3](/week1/day-2/screenshots/Screenshot_3.jpg)
+
 #### ৪। git commit -m “First commit”
 এর মাধ্যমে আমাদের ফাইল গুলোকে রেকর্ড করব ।
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_4.jpg)
+![Image of Project4](/week1/day-2/screenshots/Screenshot_4.jpg)
 এই টুকু করলেই আমাদের কাজ অনেটা হয়ে যাবে ।
 
 এখন আমরা প্রোজেক্টকে সার্ভার এ আপলোড করব । এটি করার জন্য আমরা  gitlab ব্যবহার করব।
@@ -30,9 +34,10 @@
 
 ####  ২। git remote add origin url
 এর পর আমাদের terminal এ গিয়ে git remote add origin url দিতে হবে।
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_5.jpg)
+![Image of Project5](/week1/day-2/screenshots/Screenshot_5.jpg)
+
 ####  ৩। git push -u  origin master
-![Link](https://github.com/Emran04/bitmb22/week1/day-2/screenshots/Screenshot_6.jpg)
+![Image of Project6](/week1/day-2/screenshots/Screenshot_6.jpg)
 এটি দিয়ে আমাদের প্রোজেক্ট সার্ভার এ আপ হয়ে গেল।
 
 আবার আমরা যদি আমাদের প্রোজেক্ট নতুন কোন জায়গায় নামাতে চাই তাহলে আমরা ব্যবহার করব 
