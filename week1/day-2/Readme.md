@@ -20,7 +20,8 @@
 ![Image of Project1](/week1/day-2/screenshots/Screenshot_2.jpg)
 
 #### ৩। git status
-এর মাধ্যমে আমরা প্রোজেক্ট এর বর্তমান আবস্তা সম্পর্কে জানতে পারব।
+এর মাধ্যমে আমরা প্রোজেক্ট এর বর্তমান অবস্থা সম্পর্কে জানতে পারব।
+
 
 ![Image of Project3](/week1/day-2/screenshots/Screenshot_3.jpg)
 
